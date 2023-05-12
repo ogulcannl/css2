@@ -1,0 +1,49 @@
+.logo{
+    width: 300px;
+    margin: auto;
+}
+
+.content-a{
+    width: 1200px;
+    margin: auto;
+    background-color: rgb(241, 237, 237);
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.content-b{
+    width: 1200px;
+    margin: auto;
+}
+
+.box-1{
+    background: aquamarine;
+    width: 39.6%;
+    height: 80px;
+    float: left;
+    text-align: center;
+    padding: 10px;
+    margin-right: 2px;
+}
+
+.box-2{
+    background: rgb(91, 185, 154);
+    width: 22%;
+    height: 80px;
+    float: left;
+    text-align: center;
+    margin-right: 2px;
+}
+
+.box-3{
+    background: rgb(58, 170, 133);
+    width: 38%;
+    height: 80px;
+    float: left;
+    text-align: center;
+}
+
+.footer{
+    display: block;
+    text-align: center;
+}
